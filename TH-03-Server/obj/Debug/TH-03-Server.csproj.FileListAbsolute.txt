@@ -1,0 +1,8 @@
+D:\TH-03-Client\TH-03-Server\bin\Debug\TH-03-Server.exe.config
+D:\TH-03-Client\TH-03-Server\bin\Debug\TH-03-Server.exe
+D:\TH-03-Client\TH-03-Server\bin\Debug\TH-03-Server.pdb
+D:\TH-03-Client\TH-03-Server\obj\Debug\TH_03_Server.Form1.resources
+D:\TH-03-Client\TH-03-Server\obj\Debug\TH_03_Server.Properties.Resources.resources
+D:\TH-03-Client\TH-03-Server\obj\Debug\TH-03-Server.csproj.GenerateResource.Cache
+D:\TH-03-Client\TH-03-Server\obj\Debug\TH-03-Server.exe
+D:\TH-03-Client\TH-03-Server\obj\Debug\TH-03-Server.pdb

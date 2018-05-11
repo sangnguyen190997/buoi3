@@ -1,0 +1,9 @@
+D:\TH-03-Client\TH-03-Client\bin\Debug\TH-03-Client.exe.config
+D:\TH-03-Client\TH-03-Client\bin\Debug\TH-03-Client.exe
+D:\TH-03-Client\TH-03-Client\bin\Debug\TH-03-Client.pdb
+D:\TH-03-Client\TH-03-Client\obj\Debug\TH-03-Client.csprojResolveAssemblyReference.cache
+D:\TH-03-Client\TH-03-Client\obj\Debug\TH_03_Client.Form1.resources
+D:\TH-03-Client\TH-03-Client\obj\Debug\TH_03_Client.Properties.Resources.resources
+D:\TH-03-Client\TH-03-Client\obj\Debug\TH-03-Client.csproj.GenerateResource.Cache
+D:\TH-03-Client\TH-03-Client\obj\Debug\TH-03-Client.exe
+D:\TH-03-Client\TH-03-Client\obj\Debug\TH-03-Client.pdb
